@@ -24,6 +24,8 @@ Follow these steps to set up the project locally:
 
 ## Project Structure
 
+```bash
+parse-server-boilerplate
 ├── src
 │   ├── index.js           # Main application file
 │   └── config.js          # Configuration file for Parse Server and MongoDB
@@ -33,4 +35,5 @@ Follow these steps to set up the project locally:
 ├── README.md              # Project documentation
 ├── package.json           # Project metadata and dependencies
 └── yarn.lock / package-lock.json
+
 
