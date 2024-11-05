@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-parseserver-boilderplate",
+  "version": "1.0.0",
+  "description": "A boilerplate backend setup using Node.js, Parse Server, and MongoDB. Provides essential configurations for REST API endpoints, user authentication, and scalable data management with Parse and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Jasper Pinoliad Ayawan",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "parse-dashboard": "^6.0.0",
+    "parse-server": "^7.3.0"
+  }
+}
