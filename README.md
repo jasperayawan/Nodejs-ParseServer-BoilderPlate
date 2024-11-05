@@ -21,3 +21,16 @@ Follow these steps to set up the project locally:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/jasperayawan/Nodejs-Parse-server-Boilerplate.git
+
+## Project Structure
+
+├── src
+│   ├── index.js           # Main application file
+│   └── config.js          # Configuration file for Parse Server and MongoDB
+├── .env                   # Environment variables
+├── .gitignore             # Ignored files for Git
+├── LICENSE                # License file
+├── README.md              # Project documentation
+├── package.json           # Project metadata and dependencies
+└── yarn.lock / package-lock.json
+
