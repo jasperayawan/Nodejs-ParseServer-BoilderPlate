@@ -11,7 +11,7 @@ This project serves as a boilerplate for developing applications using **Node.js
 - Easy to extend and customize
 
 ## Prerequisites
-- Node.js (v14 or later)
+- Node.js (v18 or later)
 - MongoDB (local or cloud instance)
 - npm (Node package manager)
 
